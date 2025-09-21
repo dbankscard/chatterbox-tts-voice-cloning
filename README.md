@@ -16,7 +16,7 @@ An enhanced text-to-speech application using ChatterboxTTS with voice cloning ca
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/chatterbox-tts-voice-cloning.git
+git clone https://github.com/dbankscard/chatterbox-tts-voice-cloning.git
 cd chatterbox-tts-voice-cloning
 
 # Create virtual environment
@@ -175,7 +175,7 @@ engine.text_to_speech(
 ## Project Structure
 
 ```
-cloneme/
+chatterbox-tts-voice-cloning/
 ├── tts_engine.py       # Core TTS engine with model management
 ├── tts_cli.py          # Command-line interface
 ├── config.py           # Configuration management
