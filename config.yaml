@@ -1,0 +1,32 @@
+# ChatterboxTTS Configuration
+default_device: auto  # Options: auto, cuda, cpu, mps
+default_voice: my_voice  # Default voice profile to use
+output_dir: ./output
+normalize_audio: true
+sample_rate: 24000
+
+# Voice profiles for different speaking styles
+voice_profiles:
+  my_voice:
+    voice_file: my_voice.wav
+    exaggeration: 1.0
+    cfg_weight: 1.5
+    description: My personal voice clone
+  
+  energetic:
+    voice_file: my_voice.wav
+    exaggeration: 2.5
+    cfg_weight: 2.0
+    description: Energetic and enthusiastic version
+  
+  calm:
+    voice_file: my_voice.wav
+    exaggeration: 0.0
+    cfg_weight: 1.0
+    description: Calm and measured speaking style
+  
+  dramatic:
+    voice_file: my_voice.wav
+    exaggeration: 3.0
+    cfg_weight: 2.5
+    description: Dramatic and expressive voice

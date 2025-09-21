@@ -1,0 +1,48 @@
+VOICE RECORDING SCRIPT FOR TTS TRAINING
+======================================
+
+Please read each section naturally, at your normal speaking pace. 
+Try to maintain consistent volume and distance from the microphone.
+Total recording time: approximately 2-3 minutes.
+
+SECTION 1: CONVERSATIONAL TONE
+------------------------------
+"Hello, my name is [your name]. I'm recording this sample to create a personalized text-to-speech voice. I enjoy spending time outdoors, reading books, and learning new technologies. On weekends, I often go for long walks in the park or catch up with friends over coffee."
+
+SECTION 2: NUMBERS AND DATES
+---------------------------
+"Today is the 21st of September, 2025. The temperature is 72 degrees Fahrenheit, or about 22 degrees Celsius. My phone number is 555-0123, and my zip code is 12345. I was born in 1990, which makes me 35 years old."
+
+SECTION 3: QUESTIONS AND EMPHASIS
+---------------------------------
+"Have you ever wondered what makes a great voice? Is it the tone, the clarity, or perhaps the emotion behind it? I believe it's a combination of all three! When we speak with passion, our words carry more weight. Don't you agree?"
+
+SECTION 4: TECHNICAL CONTENT
+---------------------------
+"The application uses a neural network architecture with transformer-based models. It processes audio at 24 kilohertz sampling rate, utilizing mel-spectrograms for feature extraction. The GPU acceleration significantly improves inference speed, reducing latency to under 100 milliseconds."
+
+SECTION 5: EMOTIONAL RANGE
+-------------------------
+[Happy] "What a beautiful day! I'm so excited about this new project. Everything is going wonderfully!"
+
+[Calm] "Take a deep breath. Relax your shoulders. Feel the tension leaving your body as you exhale slowly."
+
+[Serious] "This is an important matter that requires our immediate attention. We must proceed carefully and consider all options."
+
+[Enthusiastic] "Absolutely fantastic! This is exactly what we've been looking for. I can't wait to get started!"
+
+SECTION 6: COMMON WORDS AND PHRASES
+----------------------------------
+"Yes, no, maybe, please, thank you, you're welcome, excuse me, I'm sorry, congratulations, good morning, good afternoon, good evening, goodbye, see you later, take care, have a great day."
+
+SECTION 7: LONGER NARRATIVE
+--------------------------
+"Once upon a time, in a small village nestled between rolling hills, there lived a curious inventor named Alex. Every morning, Alex would wake up early, brew a fresh cup of coffee, and head to the workshop. The workshop was filled with gears, springs, and half-finished contraptions. Alex's latest project was a machine that could translate birdsong into human language. After months of careful work, tweaking algorithms and adjusting frequencies, the breakthrough finally came. The first translation was simple but profound: 'Good morning, friend.' From that day forward, the village was never quite the same."
+
+RECORDING TIPS:
+--------------
+- Record in a quiet environment with minimal background noise
+- Keep the microphone 6-8 inches from your mouth
+- Speak clearly but naturally - don't over-articulate
+- If you make a mistake, pause for 2 seconds and repeat the sentence
+- Save the recording as a WAV file (16-bit, 44.1kHz or higher)
